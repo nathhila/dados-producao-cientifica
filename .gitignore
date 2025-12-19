@@ -1,0 +1,25 @@
+# Ambientes virtuais
+venv/
+.venv/
+
+# Variáveis de ambiente
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pastas de testes
+testes/
+teste/
+
+# Pasta com os dados
+data/
+
+# Logs
+logs/
+*.log
+
+
