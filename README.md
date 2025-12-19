@@ -67,7 +67,7 @@ Crie um arquivo `.env` na raiz do projeto a partir do env.example.txt
 ---
 
 ## Como Rodar o Projeto
----
+
 ### Pré-requisitos
 
 * Python 3.12+
