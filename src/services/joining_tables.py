@@ -5,8 +5,6 @@ from dotenv import load_dotenv
 
 import pandas as pd
 
-# load_dotenv()
-
 def creating_complete_table(db, table_name, engine):
 
 	resultado = db.query(Producao.autor,
